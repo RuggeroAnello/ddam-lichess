@@ -12,10 +12,10 @@ You can access and download the dataset from the following link:
 ## Contents
 
 1. **Code**: 
-   - [`distributed-lichess-data-analysis-and-mining.pynb`](distributed-lichess-data-analysis-and-mining.pynb) - The entirety of the code, divided in sections. 
+   - [`distributed-lichess-data-analysis-and-mining.pynb`](https://github.com/RuggeroAnello/ddam-lichess/blob/main/distributed-lichess-data-analysis-and-mining.ipynb) - The entirety of the code, divided in sections. 
 
 2. **Report**:
-   - [`Distributed_Data_Analysis_and_Mining_Report.pdf`](Distributed_Data_Analysis_and_Mining_Report.pdf) - Detailed report outlining the project methodology, data analysis insights, and results from the classification tasks. 
+   - [`Distributed_Data_Analysis_and_Mining_Report.pdf`](https://github.com/RuggeroAnello/ddam-lichess/blob/main/Distributed_Data_Analysis_and_Mining_Report.pdf) - Detailed report outlining the project methodology, data analysis insights, and results from the classification tasks. 
 
 ## Project Details
 
